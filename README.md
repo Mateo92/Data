@@ -1,4 +1,12 @@
-# Data
+# Overview
+
+For this project we have two data sets(the data sets may be downloaded from https://www.kaggle.com/c/house-prices-advanced-regression-techniques), each containing information on 1,459 houses in a single city (Ames, Iowa), including 79 variables for each house. The first data set is intended for training our models, while the second is for testing them out. Our goal is to find the best regression model to predict the price of each home. Before modelling the data, we must:
+
+1-Frame the problem and look at the big picture.
+
+2-Prepare the data, checking for faulty entries (empty cells or cells with "nan"s or other values that do not make sense in the context of the problem) and dealing with them.
+
+3-Explore the data with visual tools to gain some insight and intuition.
 
 # 3. Data Analysis
 
